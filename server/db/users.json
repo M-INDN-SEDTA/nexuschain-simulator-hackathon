@@ -1,0 +1,28 @@
+[
+  {
+    "id": "U-59PO69",
+    "email": "alice@gmail.com",
+    "password": "123456@12Ag",
+    "name": "Alice",
+    "walletAddress": "0x9670d503561d1ad25b65e401f7b6872f2c72fb1a",
+    "balance": 32.400000000000006,
+    "savedItems": [
+      "M14UJI",
+      "68APYE",
+      "2NMAL0",
+      "GEEMI4"
+    ]
+  },
+  {
+    "id": "U-POUXGQ",
+    "email": "bob@gmail.com",
+    "password": "1*7d7sF^76sf7",
+    "name": "Bob",
+    "walletAddress": "0x612323d0e65c264c67c9ba1883fdece717c4c745",
+    "balance": 150.23000000000002,
+    "savedItems": [
+      "GEEMI4"
+    ],
+    "profileImage": ""
+  }
+]

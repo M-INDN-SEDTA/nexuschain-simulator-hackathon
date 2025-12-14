@@ -1,0 +1,7 @@
+{
+  "name": "NexusChain Simulator",
+  "description": "A fully simulated offline NFT platform demonstrating Identity, Ownership, Tickets, and Gaming assets using a local JSON blockchain.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

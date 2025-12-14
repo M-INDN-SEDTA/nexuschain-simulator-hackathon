@@ -1,0 +1,41 @@
+[
+  {
+    "id": "REQ-OW99VJ",
+    "nftId": "VYX0S9",
+    "buyerId": "U-POUXGQ",
+    "sellerId": "U-59PO69",
+    "price": 2,
+    "status": "REJECTED",
+    "timestamp": 1765733746864,
+    "nftName": "Computer Table with Keyboard Tray - Oak Red & White",
+    "buyerName": "Bob",
+    "sellerName": "Alice",
+    "nftImage": "/uploads/1765723725033-941714428-t2.jpg"
+  },
+  {
+    "id": "REQ-CAORET",
+    "nftId": "GEEMI4",
+    "buyerId": "U-POUXGQ",
+    "sellerId": "U-59PO69",
+    "price": 30,
+    "status": "ACCEPTED",
+    "timestamp": 1765734566154,
+    "nftName": "Mona Lisa ",
+    "buyerName": "Bob",
+    "sellerName": "Alice",
+    "nftImage": "/uploads/1765724923369-759758367-art.jpg"
+  },
+  {
+    "id": "REQ-BV8JEH",
+    "nftId": "GEEMI4",
+    "buyerId": "U-59PO69",
+    "sellerId": "U-POUXGQ",
+    "price": 148,
+    "status": "ACCEPTED",
+    "timestamp": 1765734865856,
+    "nftName": "Mona Lisa ",
+    "buyerName": "Alice",
+    "sellerName": "Bob",
+    "nftImage": "/uploads/1765724923369-759758367-art.jpg"
+  }
+]

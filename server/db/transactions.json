@@ -1,0 +1,103 @@
+[
+  {
+    "txId": "TX-JQ3PE2ITG",
+    "from": "SYSTEM",
+    "to": "U-59PO69",
+    "tokenId": "T5ROEA",
+    "type": "MINT",
+    "timestamp": 1765723520376,
+    "data": "Minted IDENTITY Asset"
+  },
+  {
+    "txId": "TX-YLAEOZYIO",
+    "from": "SYSTEM",
+    "to": "U-59PO69",
+    "tokenId": "VYX0S9",
+    "type": "MINT",
+    "timestamp": 1765723725045,
+    "data": "Minted OWNERSHIP Asset"
+  },
+  {
+    "txId": "TX-UXV9WZXYZ",
+    "from": "SYSTEM",
+    "to": "U-59PO69",
+    "tokenId": "68APYE",
+    "type": "MINT",
+    "timestamp": 1765723906865,
+    "data": "Minted TICKET Asset"
+  },
+  {
+    "txId": "TX-RLHCCR03Q",
+    "from": "SYSTEM",
+    "to": "U-59PO69",
+    "tokenId": "3WU6MY",
+    "type": "MINT",
+    "timestamp": 1765724801724,
+    "data": "Minted GAMING Asset"
+  },
+  {
+    "txId": "TX-QPZ18ZWTE",
+    "from": "SYSTEM",
+    "to": "U-59PO69",
+    "tokenId": "GEEMI4",
+    "type": "MINT",
+    "timestamp": 1765724923371,
+    "data": "Minted ART Asset"
+  },
+  {
+    "txId": "TX-C73QVCLR8",
+    "from": "SYSTEM",
+    "to": "U-59PO69",
+    "tokenId": "HFW8XL",
+    "type": "MINT",
+    "timestamp": 1765725030843,
+    "data": "Minted REAL_ESTATE Asset"
+  },
+  {
+    "txId": "TX-Y4NZWK3HW",
+    "from": "SYSTEM",
+    "to": "U-59PO69",
+    "tokenId": "FX16W0",
+    "type": "MINT",
+    "timestamp": 1765725155817,
+    "data": "Minted MUSIC Asset"
+  },
+  {
+    "txId": "TX-07A229TCT",
+    "from": "SYSTEM",
+    "to": "U-59PO69",
+    "tokenId": "8ZILAJ",
+    "type": "MINT",
+    "timestamp": 1765725295234,
+    "data": "Minted COLLECTIBLE Asset"
+  },
+  {
+    "txId": "TX-HYAJ9V1BE",
+    "from": "SYSTEM",
+    "to": "U-59PO69",
+    "tokenId": "2NMAL0",
+    "type": "MINT",
+    "timestamp": 1765734261796,
+    "data": "Minted OWNERSHIP Asset"
+  },
+  {
+    "txId": "TX-HZAXNEPRW",
+    "from": "U-59PO69",
+    "to": "U-POUXGQ",
+    "tokenId": "GEEMI4",
+    "type": "SALE",
+    "price": 30,
+    "timestamp": 1765734621651,
+    "data": "Sold for 30 ETH"
+  },
+  {
+    "txId": "TX-ARCVOXIJU",
+    "from": "U-POUXGQ",
+    "to": "U-59PO69",
+    "tokenId": "GEEMI4",
+    "type": "SALE",
+    "price": 148,
+    "timestamp": 1765734887762,
+    "data": "Sold for 148 ETH"
+  }
+]

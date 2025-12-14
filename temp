@@ -1,0 +1,10 @@
+npm init -y
+npm install express cors body-parser multer
+
+
+rmdir /s /q node_modules
+del package-lock.json
+npm cache clean --force
+
+npm install lucide-react@latest
+npm install

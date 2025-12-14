@@ -1,0 +1,394 @@
+[
+  {
+    "id": "T5ROEA",
+    "type": "IDENTITY",
+    "owner": "U-59PO69",
+    "metadata": {
+      "name": "Artistic License",
+      "description": "A membership license granting the holder the right to carry out acts of artistic license without interference from authorities. The license serves as an official document, allowing the bearer to engage in artistic expression freely and refer disputes to the Cultural Artistic Licensing Body. It is officially approved and marked as “DO NOT BEND.”\r\n\r\nMember Number: e80ca9546e39539c\r\nApproval Details:\r\nApproved By: Stuart Semple\r\nApproval Code: 4008\r\nIdentifier: ONI 618564617437\r\nLicense Reference: 00-XR2020-21",
+      "images": [
+        "/uploads/1765723520352-131659446-i.jpg"
+      ],
+      "size": "85mm × 55mm",
+      "creator": "Stuart Semple",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "NexusChain Mint"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "Stuart Semple"
+        },
+        {
+          "trait_type": "Nationality",
+          "value": "British"
+        },
+        {
+          "trait_type": "DOB",
+          "value": "2000-02-03"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Licensed Artist / Creative Practitioner"
+        }
+      ],
+      "createdDate": 1765723520376
+    },
+    "txHash": "0x53f6af7a3c5bf",
+    "price": 0,
+    "isForSale": false,
+    "history": [],
+    "likes": []
+  },
+  {
+    "id": "VYX0S9",
+    "type": "OWNERSHIP",
+    "owner": "U-59PO69",
+    "metadata": {
+      "name": "Computer Table with Keyboard Tray - Oak Red & White",
+      "description": "A versatile office desk designed for home or office use, featuring a laminated engineered wood surface in Oak Red & White. Equipped with an adjustable keyboard tray, strategically placed wire holes with desk grommet for cable management, and a durable base suitable for study or work. Ideal for students and adults alike.",
+      "images": [
+        "/uploads/1765723725033-941714428-t2.jpg",
+        "/uploads/1765723725038-353615899-table1.jpg"
+      ],
+      "size": "103W x 43D x 75H cm (40.6” x 17” x 29.6”)",
+      "creator": "ABOUT SPACE",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "NexusChain Mint"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "ABOUT SPACE"
+        },
+        {
+          "trait_type": "Serial Number",
+          "value": "8923989WERT89"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Engineered Wood (Top and Base), Laminated Finish"
+        },
+        {
+          "trait_type": "Condition",
+          "value": "New"
+        }
+      ],
+      "createdDate": 1765723725045
+    },
+    "txHash": "0x0f25636de9aac",
+    "price": 2,
+    "isForSale": true,
+    "history": [],
+    "likes": []
+  },
+  {
+    "id": "68APYE",
+    "type": "TICKET",
+    "owner": "U-59PO69",
+    "metadata": {
+      "name": ": Exclusive Event Ticket – Admit One",
+      "description": "A single-entry ticket granting admission to a special event. This ticket includes a unique serial number and barcode for verification. Designed for one person only, it serves as proof of purchase and entry.",
+      "images": [
+        "/uploads/1765723906857-685032884-t.jpg"
+      ],
+      "size": "8.5cm x 5.5cm (standard ticket size)",
+      "creator": "Event Management Co.",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "NexusChain Mint"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "Event Management Co."
+        },
+        {
+          "trait_type": "Event Date",
+          "value": "2025-12-08T20:30"
+        },
+        {
+          "trait_type": "Venue",
+          "value": "Grand Hall, City Convention Center"
+        },
+        {
+          "trait_type": "Seat",
+          "value": "Section B, Row 12, Seat 7"
+        }
+      ],
+      "createdDate": 1765723906865
+    },
+    "txHash": "0x475a5b88941c98",
+    "price": 1,
+    "isForSale": true,
+    "history": [],
+    "likes": []
+  },
+  {
+    "id": "3WU6MY",
+    "type": "GAMING",
+    "owner": "U-59PO69",
+    "metadata": {
+      "name": "Game of Thrones – PS3 Disc",
+      "description": "Licensed for play on authorized PlayStation 3 systems only. All unauthorized access, use, or transfer of the product or its underlying copyright and trademark works is prohibited. Based on the bestselling fantasy book series A Song of Ice and Fire by George R. R. Martin. Includes digital surround sound (Dolby, DTS) and Blu-ray Disc format. Made in Russia. All rights reserved.\r\n\r\nLevel / Power: Level 1–50 (progressive in-game levels)\r\nClass: Warrior / Leader (player character type)\r\nRarity: Legendary (limited edition in-game features)\r\nPlatform: PlayStation 3 (licensed)\r\nSerial / Catalogue Number: BLES-01580/RUS\r\nSize / Dimensions: Standard Blu-ray Disc – 12 cm diameter, 1.2 mm thickness\r\n\r\nOptional Specifications:\r\nAudio: DTS Digital Surround, Dolby Digital\r\nPackaging: Blu-ray case with cover art\r\nLicensing: Exclusively licensed to Sony Computer Entertainment Europe (SCEE)\r\nCopyright: ©2012 Cyanide, published by Focus Home Interactive; trademarks ©1999-2012 Dolby Laboratories; Game of Thrones property of Home Box Office, Inc.",
+      "images": [
+        "/uploads/1765724801719-170935475-g.jpg",
+        "/uploads/1765724801721-911353245-g.png"
+      ],
+      "size": "12 cm diameter, 1.2 mm thickness",
+      "creator": "Cyanide / Focus Home Interactive / HBO",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "NexusChain Mint"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "Cyanide / Focus Home Interactive / HBO"
+        },
+        {
+          "trait_type": "Level",
+          "value": "50"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Warrior / Leader"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary (limited edition in-game features)"
+        }
+      ],
+      "createdDate": 1765724801724
+    },
+    "txHash": "0x1b5a9dd38ae228",
+    "price": 6,
+    "isForSale": true,
+    "history": [],
+    "likes": []
+  },
+  {
+    "id": "GEEMI4",
+    "type": "ART",
+    "owner": "U-59PO69",
+    "metadata": {
+      "name": "Mona Lisa ",
+      "description": "Painted between 1503 and 1517, the Mona Lisa is a masterful portrait of a woman whose identity has long been debated. The work is famous for its enigmatic smile and preternatural calm, set against an idealized landscape that recedes through Leonardo’s use of atmospheric perspective. The painting has inspired centuries of admiration, study, and speculation regarding both the sitter and the artist’s technique.",
+      "images": [
+        "/uploads/1765724923369-759758367-art.jpg"
+      ],
+      "size": "77 cm × 53 cm (30 in × 21 in)",
+      "creator": "Leonardo da Vinci",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "NexusChain Mint"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "Leonardo da Vinci"
+        },
+        {
+          "trait_type": "Medium",
+          "value": "Oil on poplar panel"
+        },
+        {
+          "trait_type": "Year",
+          "value": "1517"
+        }
+      ],
+      "createdDate": 1765724923371
+    },
+    "txHash": "0x42af33e89ee8b",
+    "price": 148,
+    "isForSale": false,
+    "history": [
+      {
+        "from": "U-59PO69",
+        "to": "U-POUXGQ",
+        "price": 30,
+        "date": 1765734621651
+      },
+      {
+        "from": "U-POUXGQ",
+        "to": "U-59PO69",
+        "price": 148,
+        "date": 1765734887762
+      }
+    ],
+    "likes": []
+  },
+  {
+    "id": "HFW8XL",
+    "type": "REAL_ESTATE",
+    "owner": "U-59PO69",
+    "metadata": {
+      "name": "Riverside Residency Apartment",
+      "description": "A modern residential apartment located in a prime urban area of Karnataka. The property features contemporary design, durable construction, and convenient access to local amenities, including schools, shopping centers, and public transport. Fully registered and compliant with local property laws",
+      "images": [
+        "/uploads/1765725029386-243895860-r1.jpg",
+        "/uploads/1765725029439-491273760-r2.jpg",
+        "/uploads/1765725029484-904590087-r3.jpg",
+        "/uploads/1765725029525-770454928-r4.jpg",
+        "/uploads/1765725029835-91217662-r5.jpg",
+        "/uploads/1765725030175-18895726-r6.jpg",
+        "/uploads/1765725030770-880150312-r7.jpg"
+      ],
+      "size": "3 BHK (3 Bedrooms, 2 Bathrooms, Living Room, Kitchen, Balcony)",
+      "creator": "Karnataka Property Registry",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "NexusChain Mint"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "Karnataka Property Registry"
+        },
+        {
+          "trait_type": "Address",
+          "value": "42 Green Valley Road, Whitefield, Bangalore, Karnataka, India"
+        },
+        {
+          "trait_type": "SqFt",
+          "value": "1450.135"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Apartment"
+        }
+      ],
+      "createdDate": 1765725030843
+    },
+    "txHash": "0x33318b5cce3a78",
+    "price": 0,
+    "isForSale": false,
+    "history": [],
+    "likes": []
+  },
+  {
+    "id": "FX16W0",
+    "type": "MUSIC",
+    "owner": "U-59PO69",
+    "metadata": {
+      "name": "Hours of Opening – Music Track",
+      "description": "A licensed music track entitled Hours of Opening, cleared for playback under recorded music licenses. The track is distributed digitally and registered with the appropriate performing rights organization, ensuring authorized usage for public or private performance.",
+      "images": [
+        "/uploads/1765725155812-493715895-mus.jpg"
+      ],
+      "size": "Digital audio file, 5 MB (MP3 format)",
+      "creator": "Alamy / PRS",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "NexusChain Mint"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "Alamy / PRS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Fely"
+        },
+        {
+          "trait_type": "Genre",
+          "value": "Ambient / Contemporary"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "3:45"
+        }
+      ],
+      "createdDate": 1765725155817
+    },
+    "txHash": "0x20c16e5f28aed8",
+    "price": 0,
+    "isForSale": false,
+    "history": [],
+    "likes": []
+  },
+  {
+    "id": "8ZILAJ",
+    "type": "COLLECTIBLE",
+    "owner": "U-59PO69",
+    "metadata": {
+      "name": "1796–1893 Historic US Coin",
+      "description": "A historic collectible coin minted between 1796 and 1893, featuring the inscriptions In God We Trust, E Pluribus Unum, and denomination markings. This coin is valued for its historical significance, rarity, and condition, making it a desirable item for collectors of American numismatics.",
+      "images": [
+        "/uploads/1765725295196-197454915-c.webp"
+      ],
+      "size": "Diameter: 27 mm; Weight: 8.5 g",
+      "creator": "United States Mint",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "NexusChain Mint"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "United States Mint"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "Limited Issue #127"
+        },
+        {
+          "trait_type": "Series",
+          "value": "Early United States Coinage Collection"
+        }
+      ],
+      "createdDate": 1765725295234
+    },
+    "txHash": "0x2394565dff79b",
+    "price": 20.5,
+    "isForSale": true,
+    "history": [],
+    "likes": []
+  },
+  {
+    "id": "2NMAL0",
+    "type": "OWNERSHIP",
+    "owner": "U-59PO69",
+    "metadata": {
+      "name": "Electrical Guitar",
+      "description": "It is old fashioned electrical guitar ...",
+      "images": [
+        "/uploads/1765734261775-786864308-guitar.jpg",
+        "/uploads/1765734261787-786331021-g2.jpg"
+      ],
+      "size": "1 meter x 0.4 meter",
+      "creator": "EC Company",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "NexusChain Mint"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "EC Company"
+        },
+        {
+          "trait_type": "Serial Number",
+          "value": "987987987987TY98"
+        },
+        {
+          "trait_type": "Material",
+          "value": "wood"
+        },
+        {
+          "trait_type": "Condition",
+          "value": "Used"
+        }
+      ],
+      "createdDate": 1765734261796
+    },
+    "txHash": "0xb46a3cdf8bd09",
+    "price": 1,
+    "isForSale": true,
+    "history": [],
+    "likes": []
+  }
+]
